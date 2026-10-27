@@ -1,7 +1,7 @@
 #include <WiFiS3.h>                                   // ไลบรารี Wi-Fi ของ UNO R4 WiFi
 #include <MQTT.h>                                     // ไลบรารี MQTT
 
-const char WIFI_SSID[]     = "iPhone";                // ชื่อ hotspot
+const char WIFI_SSID[]     = "iPhonePut";                // ชื่อ hotspot
 const char WIFI_PASSWORD[] = "12345678a";             // รหัส hotspot
 
 const char MQTT_BROKER_ADRRESS[] = "phycom.it.kmitl.ac.th"; // broker ของสอบ
